@@ -1,0 +1,11 @@
+# 資料・成果物はリポジトリに入れない
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.png
+*.jpg
+*.zip
+.env
+.DS_Store
+Thumbs.db
